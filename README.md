@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shyee
+### Hi there 👋 I'm Shyee Meng
 
 <!--
 **shmengoriginal/shmengoriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
