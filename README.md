@@ -18,7 +18,7 @@ Artist turned aspiring Software Developer
 
 - 🌱 I’m currently learning Vue!
 
-- 💬 Ask me about **Indie games, The status of your house plant, Music recs, Anime**
+- 💬 Ask me about Indie games, The status of your house plant, Music recs, Anime
 
 - 📫 How to reach me **shyee.n.meng@gmail.com**
 
