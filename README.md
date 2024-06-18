@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 Artist turned aspiring Software Developer 
 
+NOTICE: Please contact me through **shyee.n.meng@gmail.com** or <a href="https://linkedin.com/in/shyeemeng" target="blank">Linkedin</a> to request access to projects not seen here. I'll be happy to share!
+
 - 🌱 I’m currently learning Vue!
 
 - 💬 Ask me about Indie games, The status of your house plant, Music recs, Anime
